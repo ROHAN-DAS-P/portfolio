@@ -9,15 +9,12 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            I’m Rohan Das P., a passionate Full Stack Web Developer and Python enthusiast who loves turning ideas into scalable, impactful products. With hands-on experience in React.js, Node.js, Django, REST APIs, and PostgreSQL, I thrive at the intersection of clean design, efficient backend logic, and seamless user experience.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+            I’m now seeking opportunities where I can collaborate with forward-thinking teams, contribute to high-impact products, and keep pushing my boundaries as a developer.
+
+
           </p>
         </div>
       </div>
