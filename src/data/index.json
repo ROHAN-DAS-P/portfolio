@@ -4,48 +4,48 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Crafting responsive, interactive user interfaces using React, HTML, CSS, and JavaScript for seamless web experiences."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Developing robust, secure server-side applications with Node.js, Django, and REST APIs for efficient data handling."
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Designing intuitive, user-friendly layouts that enhance usability, accessibility, and overall digital experience for diverse audiences."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Building visually stunning, responsive websites on Webflow with custom interactions and optimized performance for client needs."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Real-Estate Web App",
+      "description": "A real estate web app built with MongoDB, Express, React, and Node.js, featuring property listings, user authentication, and dynamic search functionality.",
+      "link": "https://github.com/ROHAN-DAS-P/mern-estate"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Github OAuthApp Dashboard",
+      "description": "A GitHub OAuth integration that authenticates users, fetches repositories, displays issues, and pull requests with a secure, token-based React-Node.js architecture.",
+      "link": "https://github.com/ROHAN-DAS-P/Hotel_booking_webapp"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Hotel Booking System",
+      "description": "A hotel booking system using Django, enabling room reservations, availability checks, secure payments, and an intuitive interface for guests and administrators.",
+      "link": "https://github.com/ROHAN-DAS-P/dream"
     }
   ],
   "testimonial": [
