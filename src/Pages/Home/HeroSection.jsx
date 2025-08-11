@@ -3,18 +3,25 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hey, I'm John</p>
+          <p className="section--title">Hey, I'm Rohan Das P.</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack</span>{" "}
+            <span className="hero--section-title--color">Full Stack || Python</span>{" "}
             <br />
             Developer
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+            Web Developer skilled in React, Node.js, Django, and REST APIs. Python backend enthusiast passionate about creating impactful digital products and building the next big innovation.            
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <button
+          className="btn btn-primary"
+          onClick={() => {
+            document.getElementById("Contact").scrollIntoView({ behavior: "smooth" });
+          }}
+        >
+          Get In Touch
+        </button>
+
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
